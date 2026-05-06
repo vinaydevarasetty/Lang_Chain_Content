@@ -1,13 +1,13 @@
-1. What You Are Learning Today
-
-Till now you did this:
-
-model.invoke("Explain cloud computing")
-
-Problem?
-
-👉 This is hardcoded
-
-Today’s idea:
-
-“How do I make prompts reusable and dynamic?”
+``markdown
+    ---
+    layout: post
+    title: "Deep Dive: Building AI Agents with LangChain"
+    date: 2026-05-06
+    categories: AI-Engineering
+    ---
+    
+    ## The Shift to LangGraph
+    (Paste your LinkedIn post content here...)
+    
+    [View the original conversation on LinkedIn](https://linkedin.com/posts/your-link)
+    ```
