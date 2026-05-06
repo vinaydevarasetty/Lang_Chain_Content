@@ -2,6 +2,7 @@
 layout: post
 title: "Deep Dive: What is LangChain?"
 date: 2026-05-06
+permalink: /langchain-deep-dive/
 ---
 
 ## Introduction
